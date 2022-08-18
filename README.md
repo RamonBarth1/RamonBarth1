@@ -1,28 +1,28 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
-## Full Stack Developer 👨‍💻
+Hi There , I'm Ramon 
+## I'm student of Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](ramongarcezbarth@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```javascript
 const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    Name: [Ramon Garcez Barth],
+          [ I'm 21 years old],
+    I live in Novo Hamburgo -RS (Brasil)
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
+        fronEnd: ["HTML", "Css" "and" "JavaScript"],
         mobileApp: ["ionic","angular"],
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+   
 }
 ```
 
