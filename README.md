@@ -12,16 +12,11 @@ Hi There , I'm Ramon
 ```javascript
 const ashraf = {
     Name: [Ramon Garcez Barth],
-          ["I'm 21 years old"],
-    I live in Novo Hamburgo -RS (Brasil)
+          [I'm 21 years old],
+    [I live in Novo Hamburgo -RS (Brasil)]
     technologies:{
-        fronEnd: ["HTML", "Css" "and" "JavaScript"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
+        fronEnd: [HTML,Css and JavaScript],
+        },
    
 }
 ```
