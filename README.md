@@ -4,8 +4,12 @@ Hi There , I'm Ramon 👋🏻
 
 
 <p>
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-ramonbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
+ <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
 </p>
+ <a href="https://www.linkedin.com/in/ramon-barth-73a6301a2/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth-73a6301a2/" /></a>
 
 <p>
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=new" alt="Gmail">
