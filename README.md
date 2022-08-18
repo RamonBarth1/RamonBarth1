@@ -16,7 +16,7 @@ const ashraf = {
     [I live in Novo Hamburgo RS-Brasil],
     
     technologies:{
-        fronEnd: [HTML,Css and JavaScript],
+        fronEnd: ["HTML","Css", "and", "JavaScript"],
         },
    
 }
