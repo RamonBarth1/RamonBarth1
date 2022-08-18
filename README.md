@@ -3,8 +3,8 @@
 Hi There , I'm Ramon 
 ## I'm student of Full Stack Developer at Growdev👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-RamonBarth-blue)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ramonbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
+
 
 
 
