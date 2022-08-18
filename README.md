@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Hi There , I'm Ramon 
-## I'm student of Full Stack Developer at Growdev👨‍💻
+Hi There , I'm Ramon 👋🏻
+## I'm student of Full Stack Developer at Growdev 💻
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ramonbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
 
