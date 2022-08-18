@@ -12,8 +12,8 @@ Hi There , I'm Ramon
 ```javascript
 const ramon= {
     Name: [Ramon Garcez Barth],
-    Age:  [I'M 21 Years Old],
-    [I live in Novo Hamburgo- RS Brasil],
+    Age:  [I'm 21 years old],
+    Country: [I live in Novo Hamburgo- RS Brasil],
     
     technologies:{
         fronEnd: ["HTML","Css", "and", "JavaScript"],
