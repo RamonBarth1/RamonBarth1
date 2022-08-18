@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif)" width="230">
 
 Hi There , I'm Ramon 👋🏻
 ## I'm student of Full Stack Developer at Growdev 💻
