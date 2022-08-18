@@ -7,10 +7,10 @@ align="left">
   
   <a href="(https://mail.google.com/mail/u/1/#inbox)" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" /></a>
-  
-  <a href="square&labelColor=DF0174&logo=instagram&logoColor=white&link==https://www.instagram.com/ramonbarth/"/></a>" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link==https://www.instagram.com/ramonbarth/"/></a>
-
+<p>
+<a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ramonbarth/"/></a>
+</p>  
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
