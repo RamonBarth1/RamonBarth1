@@ -22,6 +22,9 @@ const ramon= {
    
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RamonBarth1" alt="ramonbarth" />
+</p>
 
 
 <p align="center">
