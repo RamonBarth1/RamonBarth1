@@ -1,10 +1,11 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 Hi There , I'm Ramon 👋🏻
 ## I'm student of Full Stack Developer at Growdev 💻
-<br>
 
 
+<p>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ramonbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
+</p>
 
 <p>
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=new" alt="Gmail">
