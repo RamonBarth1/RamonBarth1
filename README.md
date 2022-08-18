@@ -10,9 +10,9 @@ Hi There , I'm Ramon
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
 
 ```javascript
-const ashraf = {
+const ramon= {
     Name: [Ramon Garcez Barth],
-          [I'm 21 years old],
+    Age:  [I'm 21 years old],
     [I live in Novo Hamburgo RS-Brasil],
     
     technologies:{
