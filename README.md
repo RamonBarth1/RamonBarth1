@@ -16,7 +16,7 @@ const ramon= {
     Country: ["I live in Novo Hamburgo -RS Brasil",
     
     Technologies:{
-        FronEnd: ["HTML","Css", "and", "JavaScript"],
+        FronEnd: ["HTML","Css", "and" "JavaScript"],
         },
 
 }
