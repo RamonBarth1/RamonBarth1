@@ -12,7 +12,7 @@ Hi There , I'm Ramon
 ```javascript
 const ashraf = {
     Name: [Ramon Garcez Barth],
-          [ I'm 21 years old],
+          ["I'm 21 years old"],
     I live in Novo Hamburgo -RS (Brasil)
     technologies:{
         fronEnd: ["HTML", "Css" "and" "JavaScript"],
