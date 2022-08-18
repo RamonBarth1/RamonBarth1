@@ -4,8 +4,8 @@ Hi There , I'm Ramon 👋🏻
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ramonbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-barth/)](https://www.linkedin.com/in/ramon-barth-73a6301a2/)
 <p align="left">
-  <a href="ramongarcezbarth@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="(https://mail.google.com/mail/u/1/#inbox)" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
 
 
@@ -16,7 +16,7 @@ const ramon= {
     Name: [Ramon Garcez Barth],
     Age:  ["I'm 21 years old"]
     Country: ["I live in Novo Hamburgo -RS Brasil",
-    
+   
     Technologies:{
         FronEnd: ["HTML" "Css" "and" "JavaScript"],
         },
