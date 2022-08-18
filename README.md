@@ -24,10 +24,15 @@ const ramon= {
 
 
 
-</br></br>
-<h2>💻 Some stats 💻</h2>
+<p align="center">
+  <a href="mailto:ramongarcezbarth@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+</p>
 
-![Ramon's github stats](https://github-readme-stats.vercel.app/api?username=ramon-barth&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonBarth1&show_icons=true" alt="reisub0" /> 
+
+</p>
+<p align="left"> </p>
 
 
 
