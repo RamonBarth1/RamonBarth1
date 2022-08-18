@@ -26,6 +26,7 @@ const ramon= {
 
 <p align="center">
   <a href="mailto:ramongarcezbarth@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a> 
 </p>
 
 <p align="left">
