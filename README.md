@@ -30,7 +30,7 @@ const ramon= {
     Country: ["I live in Novo Hamburgo -RS Brasil"],
    
     Technologies:{
-        FrontEnd: ["HTML, CSS, and JavaScript"],
+        FrontEnd: ["HTML, CSS, JavaScript and ReactJS"],
         },
 
 }
