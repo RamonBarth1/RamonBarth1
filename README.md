@@ -26,7 +26,7 @@ I'm student of Full Stack Developer at Growdev 💻
 ```javascript
 const ramon= {
     Name: [Ramon Garcez Barth],
-    Age:  ["I'm 22 years old"],
+    Age:  ["I'm 23 years old"],
     Country: ["I live in Novo Hamburgo - RS Brasil"],
    
     Technologies:{
