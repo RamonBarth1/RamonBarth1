@@ -1,7 +1,7 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 Hi There , I'm Ramon 👋🏻
 <p>
-I'm student of Full Stack Developer at Growdev 💻
+I'm student of Full Stack Developer 💻
 </p>
 
 
